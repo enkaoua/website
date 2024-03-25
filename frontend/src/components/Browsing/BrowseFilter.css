@@ -1,0 +1,12 @@
+.browse-filter-container {
+  border: 1px solid black;
+  padding: 2%;
+}
+
+.browse-filter-container div {
+  padding: 1% 0;
+}
+
+button {
+  height: 2vh;
+}

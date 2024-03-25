@@ -1,0 +1,18 @@
+
+
+.navbar-search{
+    flex:1;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    border: solid 2px gray;
+    
+}
+
+.navbar-search input{
+    border-radius: none;
+    background-color: transparent;
+    height:100%;
+    width:100%;
+
+}

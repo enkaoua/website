@@ -1,0 +1,23 @@
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.product-container {
+  flex: 1;
+  width: 25%;
+  border: solid 0.5px gray;
+  padding: 5%;
+  margin: 1%;
+}
+
+.product-container h2 {
+  font-size: 150%;
+  padding: 5% 0% 5% 0%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.product-container img {
+  height: 20vh;
+}
